@@ -1,3 +1,4 @@
+# 痛心，这个主题的博客始终搭不起来……
 # Typing Jekyll Template
 
 **Typing Jekyll Template**, is a template for [Jekyll](http://jekyllrb.com) built especially for those who want to have a blog and pages quickly and lightly. Keep It Simple, my friend!
